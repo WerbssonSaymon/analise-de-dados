@@ -58,6 +58,8 @@ faltas: {menor_numero_faltas}
 Tabela com os dados tratados da turma A 
 
 {df_B}
+
+{df_B["Resultado Final"].describe()}
 """)
 
 
