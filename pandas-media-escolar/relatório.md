@@ -30,9 +30,36 @@ Prompt usado: faça um arquivo excel chamado turma-A sobre 30 alunos ficticios, 
 - menor quantidade: 2 faltas
 - Alunos: João Caetano, Luana Correia
 
-### Situação final
+### Resultado letivo
 
 - Reprovados: 20 alunos abaixo da media 6
 - Aprovados: 10 alunos acima da media 6
 
 ## Turma B
+
+### Notas dos alunos nos quatro trimestres
+
+- Media de 4.3 com desvio de 3.0, menor nota foi 0.0 e a maior 10
+- 25% estão abaixo de 2.0, 50% estão abaixo 3.75 e 75% estão abaixo 6.3
+
+- Media de 5.6 com desvio de 3.5, menor nota foi 0.5 e a maior 10
+- 25% estão abaixo de 2.1, 50% estão abaixo 5.5 e 75% estão abaixo 9.8
+
+- Media de 5.2 com desvio de 2.9, menor nota foi 0.0 e a maior 10
+- 25% estão abaixo de 2.6, 50% estão abaixo 5.5 e 75% estão abaixo 7.8
+
+- Media de 5.0 com desvio de 3.0, menor nota foi 1.0 e a maior 10
+- 25% estão abaixo de 2.1 50% estão abaixo 5.0 e 75% estão abaixo 7.8
+
+### Faltas durante o ano letivo
+
+- maior quantidade: 29 faltas
+- Aluna: Gabriela Silva
+
+- menor quantidade: 0 faltas
+- Aluna: Sofia Neto
+
+### Resultado letivo
+
+- Reprovados: 24 alunos abaixo da media 6
+- Aprovados: 6 alunos acima da media 6
